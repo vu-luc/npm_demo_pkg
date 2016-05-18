@@ -1,0 +1,19 @@
+{
+  "name": "npm_demo_pkg",
+  "version": "1.0.0",
+  "description": "This is a test npm demo packaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vu-luc/npm_demo_pkg.git"
+  },
+  "author": "vu.luc@con-way.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vu-luc/npm_demo_pkg/issues"
+  },
+  "homepage": "https://github.com/vu-luc/npm_demo_pkg#readme"
+}
